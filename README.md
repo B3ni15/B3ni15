@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<center>
+  <img scr="https://discord.c99.nl/widget/theme-4/801162422580019220.png">
+</center>
+
+
 <!--
 **B3ni15/B3ni15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
